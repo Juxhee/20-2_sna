@@ -3,4 +3,4 @@
 
 **Step**
 1. Crawling data from arxiv (titles, authors, abstracts) 
-2. Generating edge list data
+2. Generating edge list data for Network analysis
