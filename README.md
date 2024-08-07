@@ -1,4 +1,3 @@
-# 20-2_sna 
 ## 2020 2nd semester SNA class project
 
 **Step**
